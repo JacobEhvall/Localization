@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  PhotoApp
+
+  Created by Jacob  Ehnvall on 2020-10-22.
+  
+*/
+
+"Place" = "Plats";
+"darkScreen" = "Dark Mode";
+"Notice" = "notifikationer";
+"chat" = "Chat";
+
+"supportText" = "Support";
+"terms" = "Regler och Villkor";
+"signoutText" = "Logga Ut";
+"getNotified" = "Få Notieringar";
+"locationText" = "Plats";
+
+"getInfoText" = "Copyright på app ©2020. Kontakt sker via STI:s support;
+Dan Ayette. Kontaktuppgifter finns på denna mail:;
+danayette@hotmail.com och per telefon 070 111 22 23.";
+//
+//Tider som Dan Ayette är tillgänglig för att kunna svara på era frågor;
+//mellan 08:00 - 17:00 svar på våra vanligaste frågor hittar du under Q&A.;
+//
+//Vanliga frågor;
+//
+//Användarnamn och Lösenord;
+//För att kunna använda app:en kommer du behöva skapa konto med användarnamn och lösenord. Tänk på när du skapar konto att; välja ett lösenord som inte alltför enkelt!;
+//
+//Det kommer även gå att logga in med Facebook, G-mail eller med Apple konto.;
+//
+//Köpa saker;
+//I appen har du möjlighet att kunna köpa saker. Betalmetoder som erbjuds är Apple Pay och Mastercard. I nuläget finns inga; saker att köpa. :);
+//
+//Stripe tar hand om betalningen.;
+//
+//Chat;
+//Möjlighet till att chatta med varandra kommer finnas men inte i dagsläget.;
+//
+//Dark mode;
+//Vill du ha möjlighet att ha mörkare läge på smartmobilen slår du på dark mode i inställningar.;"
+//

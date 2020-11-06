@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5OP-rB-JCJ"; */
+"5OP-rB-JCJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "99g-Bk-fAa"; */
+"99g-Bk-fAa.text" = "Support";
+
+/* Class = "UINavigationItem"; title = "Meddelanden"; ObjectID = "Cuv-2C-hg6"; */
+"Cuv-2C-hg6.title" = "Meddelanden";
+
+/* Class = "UITextView"; text = "Copyright på app ©2020. Kontakt sker via STI:s support\nDan Ayette. Kontaktuppgifter finns på denna mail:\ndanayette@hotmail.com och per telefon 070 111 22 23.\n\nTider som Dan Ayette är tillgänglig för att kunna svara på era frågor \nmellan 08:00 - 17:00 svar på våra vanligaste frågor hittar du under Q&A.\n\n\nVanliga frågor\n\nAnvändarnamn och Lösenord\nFör att kunna använda app:en kommer du behöva skapa konto med användarnamn och lösenord. Tänk på när du skapar konto att välja ett lösenord som inte alltför enkelt!\n\nDet kommer även gå att logga in med Facebook, G-mail eller med Apple konto.\n\nKöpa saker\nI appen har du möjlighet att kunna köpa saker. Betalmetoder som erbjuds är Apple Pay och Mastercard. I nuläget finns inga saker att köpa. :) \n\nStripe tar hand om betalningen.\n\nChat\nMöjlighet till att chatta med varandra kommer finnas men inte i dagsläget.\n\nDark mode\nVill du ha möjlighet att ha mörkare läge på smartmobilen slår du på dark mode i inställningar.\n\n"; ObjectID = "Gdw-8z-qn0"; */
+"Gdw-8z-qn0.text" = "Copyright på app ©2020. Kontakt sker via STI:s support\nDan Ayette. Kontaktuppgifter finns på denna mail:\ndanayette@hotmail.com och per telefon 070 111 22 23.\n\nTider som Dan Ayette är tillgänglig för att kunna svara på era frågor \nmellan 08:00 - 17:00 svar på våra vanligaste frågor hittar du under Q&A.\n\n\nVanliga frågor\n\nAnvändarnamn och Lösenord\nFör att kunna använda app:en kommer du behöva skapa konto med användarnamn och lösenord. Tänk på när du skapar konto att välja ett lösenord som inte alltför enkelt!\n\nDet kommer även gå att logga in med Facebook, G-mail eller med Apple konto.\n\nKöpa saker\nI appen har du möjlighet att kunna köpa saker. Betalmetoder som erbjuds är Apple Pay och Mastercard. I nuläget finns inga saker att köpa. :) \n\nStripe tar hand om betalningen.\n\nChat\nMöjlighet till att chatta med varandra kommer finnas men inte i dagsläget.\n\nDark mode\nVill du ha möjlighet att ha mörkare läge på smartmobilen slår du på dark mode i inställningar.\n\n";
+
+/* Class = "UINavigationItem"; title = "Notiser"; ObjectID = "Ha9-vI-vhu"; */
+"Ha9-vI-vhu.title" = "Notiser";
+
+/* Class = "UITextView"; text = "Villkor\n\nNär du använder denna app kommer du godkänna att du följer dess villkor, t.ex. vid köp av olika varor. I denna app sköts betalningar via Stripe vilket vi hänvisar till dem om frågor kring deras hantering av betalningar med mera. Varor som ligger ute på sidan kan du höra av dig till oss som gjort appen. Priser på vad saker kostar vad de kostar och kommer inte ändras vid klagomål.\n\nKöp av saker via appens affär erbjuds öppet köp i 5 dagar om produkten är i oanvänt skick.  \n\nFör att kunna använda appen behöver du ett konto. Du skapar konto med hjälp av användarnamn och lösenord eller logga in med G-mail, Facebook eller Apple. Villkoren beskriva tidigare accepterar du genom att skapa konto hos oss.\n\n\nKontakt\n  \nMap19 AB\n\nLiljeholmstorget 7\n \n117 63 Stockholm\n\nSverige\n\nE-post: danayette@hotmail.com \n\n\n\n\n\n  "; ObjectID = "Hl9-Ky-An0"; */
+"Hl9-Ky-An0.text" = "Villkor\n\nNär du använder denna app kommer du godkänna att du följer dess villkor, t.ex. vid köp av olika varor. I denna app sköts betalningar via Stripe vilket vi hänvisar till dem om frågor kring deras hantering av betalningar med mera. Varor som ligger ute på sidan kan du höra av dig till oss som gjort appen. Priser på vad saker kostar vad de kostar och kommer inte ändras vid klagomål.\n\nKöp av saker via appens affär erbjuds öppet köp i 5 dagar om produkten är i oanvänt skick.  \n\nFör att kunna använda appen behöver du ett konto. Du skapar konto med hjälp av användarnamn och lösenord eller logga in med G-mail, Facebook eller Apple. Villkoren beskriva tidigare accepterar du genom att skapa konto hos oss.\n\n\nKontakt\n  \nMap19 AB\n\nLiljeholmstorget 7\n \n117 63 Stockholm\n\nSverige\n\nE-post: danayette@hotmail.com \n\n\n\n\n\n  ";
+
+/* Class = "UILabel"; text = "Mörkt Läge"; ObjectID = "L4T-bq-goK"; */
+"L4T-bq-goK.text" = "Mörkt Läge";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LxH-MY-68x"; */
+"LxH-MY-68x.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Ändra utseendet på den app!"; ObjectID = "NYh-ta-bqd"; */
+"NYh-ta-bqd.text" = "Ändra utseendet på den app!";
+
+/* Class = "UIButton"; normalTitle = "Logga ut"; ObjectID = "NtV-oc-H3G"; */
+"NtV-oc-H3G.normalTitle" = "Logga ut";
+
+/* Class = "UITextField"; text = "Ta emot Push- notiser"; ObjectID = "Ou2-sE-a7t"; */
+"Ou2-sE-a7t.text" = "Ta emot Push- notiser";
+
+/* Class = "UITextField"; text = "chat"; ObjectID = "Q82-hY-ppS"; */
+"Q82-hY-ppS.text" = "chat";
+
+/* Class = "UITextField"; text = "Mörkt läge"; ObjectID = "WZF-x4-yLj"; */
+"WZF-x4-yLj.text" = "Mörkt läge";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YJR-BC-v35"; */
+"YJR-BC-v35.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Mörkt läge"; ObjectID = "Z8O-91-hFF"; */
+"Z8O-91-hFF.text" = "Mörkt läge";
+
+/* Class = "UINavigationItem"; title = "Kommunikation"; ObjectID = "bPp-nN-xcX"; */
+"bPp-nN-xcX.title" = "Kommunikation";
+
+/* Class = "UINavigationItem"; title = "Inställningar"; ObjectID = "esk-sD-YEg"; */
+"esk-sD-YEg.title" = "Inställningar";
+
+/* Class = "UILabel"; text = "Villkor"; ObjectID = "fzA-ea-ALf"; */
+"fzA-ea-ALf.text" = "Villkor";
+
+/* Class = "UILabel"; text = "Notifikationer"; ObjectID = "hgx-dg-1lE"; */
+"hgx-dg-1lE.text" = "Notifikationer";
+
+/* Class = "UITextField"; text = "Platser"; ObjectID = "k0l-J3-uev"; */
+"k0l-J3-uev.text" = "Platser";
+
+/* Class = "UINavigationItem"; title = "Support"; ObjectID = "kO8-0j-6zx"; */
+"kO8-0j-6zx.title" = "Support";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m8R-CA-cpU"; */
+"m8R-CA-cpU.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Villkor"; ObjectID = "nUV-Pr-Z7t"; */
+"nUV-Pr-Z7t.title" = "Villkor";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "o0u-1a-SgJ"; */
+"o0u-1a-SgJ.text" = "Chat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ojn-0J-yFM"; */
+"ojn-0J-yFM.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Mörkt läge"; ObjectID = "oyH-NV-KR2"; */
+"oyH-NV-KR2.title" = "Mörkt läge";
+
+/* Class = "UITextField"; text = "Slå på för att kunna chatta i appen!"; ObjectID = "pTf-EQ-Tc9"; */
+"pTf-EQ-Tc9.text" = "Slå på för att kunna chatta i appen!";
+
+/* Class = "UILabel"; text = "Platser"; ObjectID = "s51-j2-R86"; */
+"s51-j2-R86.text" = "Platser";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uXW-DJ-9rA"; */
+"uXW-DJ-9rA.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Ändra utseendet på den app!"; ObjectID = "uiQ-Fv-VNs"; */
+"uiQ-Fv-VNs.text" = "Ändra utseendet på den app!";

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  PhotoApp
+
+  Created by Jacob  Ehnvall on 2020-10-22.
+  
+*/
+
+"Place" = "Location";
+"darkScreen" = "Dark Mode";
+"darkModeText" = "Change apperance!";
+"Notice" = "notifications";
+"chat" = "Chat";
+"supportText" = "Support";
+"terms" = "Terms and Condion";
+"signoutText" = "Log Out";
+"getNotified" = "Get Push Notifikation";
+"locationText" = "Location";
+
+
